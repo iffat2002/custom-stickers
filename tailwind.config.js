@@ -9,6 +9,9 @@ module.exports = {
     extend: {
       backgroundImage: {
         "orange-img": "url('/background.png')",
+        "tagimg": "url('/shape.png')",
+        "uploadimg": "url('https://customany.com/wp-content/plugins/product-extras-for-woocommerce/assets/images/upload.svg')"
+      
       },
     },
   },
